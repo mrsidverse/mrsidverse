@@ -26,7 +26,7 @@
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsid-31&layout=compact&hide=html&theme=dark" alt="mrsid-31" /> <br><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsid-31&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true" alt="mrsid-31" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsid-31&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="mrsid-31" />
 </p>
 
 <p align="center">
