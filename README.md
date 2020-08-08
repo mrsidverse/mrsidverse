@@ -25,8 +25,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsid-31&layout=compact&hide=html" alt="mrsid-31" /> <br><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsid-31&show_icons=true" alt="mrsid-31" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsid-31&layout=compact&hide=html&theme=dark" alt="mrsid-31" /> <br><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsid-31&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true" alt="mrsid-31" />
 </p>
 <p align="center">
 <a href="https://codepen.io/mrsid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mrsid" height="30" width="30" /></a>
