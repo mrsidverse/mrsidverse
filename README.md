@@ -28,6 +28,13 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsid-31&layout=compact&hide=html&theme=dark" alt="mrsid-31" /> <br><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsid-31&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true" alt="mrsid-31" />
 </p>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrsid-31&show_icons=true&hide=stars&theme=dark&count_private=true&include_all_commits=true" alt="Sid's github stats" />
+</a>
+<a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsid-31&layout=compact&hide=html&theme=dark" />
+</a>
+
 <p align="center">
 <a href="https://codepen.io/mrsid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mrsid" height="30" width="30" /></a>
 <a href="https://instagram.com/mrsid_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrsid_31" height="30" width="30" /></a>
