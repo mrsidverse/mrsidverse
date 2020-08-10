@@ -10,11 +10,11 @@
 
 - 💻 Currently working on **Online Exam Website**
 
-- 💡 I’m currently learning **CSS Animations, ReactJS**
+- 🎯 I’m currently learning **CSS Animations, ReactJS**
 
 - 🤝 Looking for help with **Website to find PG for students**
 
-- 📫 Reach me here **instagram.com/mrsid_31**
+- 💌 Reach me here **instagram.com/mrsid_31**
 
 - ☕ Fun fact **Chai over Coffee**
 
