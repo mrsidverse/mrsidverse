@@ -1,16 +1,16 @@
 <h1 align="center">Hey, I'm Sid 👋</h1>
 <h3 align="center">Learning, Growing and Exploring the World</h3>
 <p align="center">  
-<a href="https://codepen.io/mrsid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mrsid" height="30" width="30" /></a>
-<a href="https://instagram.com/mrsidverse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrsid_31" height="30" width="30" /></a>
-<a href="https://twitter.com/mrsidverse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrsid_31" height="30" width="30" /></a>
-<a href="https://fb.com/mrsidverse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="siddheshwar.chandravanshi" height="30" width="30" /></a>  
+<a href="https://codepen.io/mrsid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Siddheshwar Chandravanshi" height="30" width="30" /></a>
+<a href="https://instagram.com/mrsidverse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Siddheshwar Chandravanshi" height="30" width="30" /></a>
+<a href="https://twitter.com/mrsidverse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Siddheshwar Chandravanshi" height="30" width="30" /></a>
+<a href="https://fb.com/mrsidverse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Siddheshwar Chandravanshi" height="30" width="30" /></a>  
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=mrsidverse" alt="mrsidverse"/></p>
 
 - 💻 Currently working on **Online Exam Website**
 
-- 🎯 I’m currently learning **CSS Animations, ReactJS**
+- 🎯 I’m currently learning **CSS Animations, Javascript**
 
 - 🤝 Looking for help with **Website to find PG for students**
 
