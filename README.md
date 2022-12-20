@@ -17,8 +17,8 @@
 - ☕ Fun fact **Chai over Coffee**
 
 <hr><p align="center">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="![image](https://user-images.githubusercontent.com/52076969/208668231-4b4ac05f-1bc3-453c-b1b7-a47586971a2a.png)" alt="Webflow" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/>
+<img src="https://user-images.githubusercontent.com/52076969/208668231-4b4ac05f-1bc3-453c-b1b7-a47586971a2a.png" alt="Webflow" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="33" height="33"/>
