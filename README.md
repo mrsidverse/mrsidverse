@@ -8,11 +8,11 @@
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=mrsidverse" alt="mrsidverse"/></p>
 
-- 💻 Currently working on **Online Exam Website**
+- 💻 UI Designer at **Grarri**
 
-- 🎯 I’m currently learning **CSS Animations, Javascript**
+- 🎯 I’m currently learning **UI Design, Webflow, Figma Plugin Development**
 
-- 🤝 Looking for help with **Website to find PG for students**
+- 🤝 Looking for help with **Figma Plugin Development**
 
 - 💌 Reach me here **instagram.com/mrsidverse**
 
