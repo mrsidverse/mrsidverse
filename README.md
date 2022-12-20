@@ -12,8 +12,6 @@
 
 - 🎯 I’m currently learning **UI Design, Webflow, Figma Plugin Development**
 
-- 🤝 Looking for help with **Figma Plugin Development**
-
 - 💌 Reach me here **instagram.com/mrsidverse**
 
 - ☕ Fun fact **Chai over Coffee**
