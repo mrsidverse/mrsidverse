@@ -10,7 +10,7 @@
 
 - 💻 UI Designer at **Grarri**
 
-- 🎯 I’m currently learning **UI Design, Webflow, Figma Plugin Development**
+- 🎯 I’m currently learning **UI Design, Webflow,Framer, Figma Plugin Development**
 
 - 💌 Reach me here **instagram.com/mrsidverse**
 
