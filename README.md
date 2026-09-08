@@ -7,10 +7,7 @@
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=mrsidverse" alt="mrsidverse"/></p>
 
-- 💻 Product Designer at **Numberz.ai**
-
+- 💻 Product Designer at **Insightopia**
 - 🎯 I’m currently learning **iOS Dev**
-
 - 💌 Reach me here **instagram.com/mrsidverse**
-
 - ☕ Fun fact **Chai over Coffee**
